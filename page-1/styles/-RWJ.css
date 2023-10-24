@@ -1,0 +1,277 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 119.8rem;
+}.item-14-GwU {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.item-14-GwU .property-1default-mdL {
+  box-sizing: border-box;
+  padding: 66.2rem 0rem 0.7rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-41-bg-akz.png');
+  border-radius: 2.5rem 2.5rem 0 0;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1default-mdL .auto-group-uruj-HLn {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  background-color: #626262;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1default-mdL .auto-group-uruj-HLn .rectangle-40-dfY {
+  width: 77.7rem;
+  height: 0.9rem;
+  background-color: #56c2b5;
+}
+.item-14-GwU .property-1default-mdL .auto-group-bdjr-ZZC {
+  margin-left: 0.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1default-mdL .auto-group-bdjr-ZZC .pause-WjL {
+  margin-right: 1.5rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1default-mdL .auto-group-bdjr-ZZC .volume-on-SN6 {
+  margin-right: 1.75rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1default-mdL .auto-group-bdjr-ZZC .item-14-33-22-15-NmY {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant2-orr {
+  box-sizing: border-box;
+  padding: 66.2rem 0rem 0.7rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-25-bg-pQi.png');
+  border-radius: 2.5rem 2.5rem 0 0;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant2-orr .auto-group-fssw-vRg {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  background-color: #626262;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant2-orr .auto-group-fssw-vRg .rectangle-40-fu4 {
+  width: 77.7rem;
+  height: 0.9rem;
+  background-color: #56c2b5;
+}
+.item-14-GwU .property-1variant2-orr .auto-group-bpsy-zgS {
+  margin-left: 0.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant2-orr .auto-group-bpsy-zgS .play-9JS {
+  margin-right: 1.5rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant2-orr .auto-group-bpsy-zgS .volume-on-U5p {
+  margin-right: 1.75rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant2-orr .auto-group-bpsy-zgS .item-14-33-22-15-15k {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant3-s7x {
+  box-sizing: border-box;
+  padding: 66.2rem 0rem 0.7rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-41-bg-CNn.png');
+  border-radius: 2.5rem 2.5rem 0 0;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant3-s7x .auto-group-meta-b3x {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  background-color: #626262;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant3-s7x .auto-group-meta-b3x .rectangle-40-8pa {
+  width: 77.7rem;
+  height: 0.9rem;
+  background-color: #56c2b5;
+}
+.item-14-GwU .property-1variant3-s7x .auto-group-aq1x-5E2 {
+  margin-left: 0.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant3-s7x .auto-group-aq1x-5E2 .pause-29G {
+  margin-right: 1.5rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant3-s7x .auto-group-aq1x-5E2 .volume-off-x2v {
+  margin-right: 1.75rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant3-s7x .auto-group-aq1x-5E2 .item-14-33-22-15-V2r {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant4-8bc {
+  box-sizing: border-box;
+  padding: 66.2rem 0rem 0.7rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-41-bg-T2A.png');
+  border-radius: 2.5rem 2.5rem 0 0;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant4-8bc .auto-group-mqsx-Tdt {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  background-color: #626262;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant4-8bc .auto-group-mqsx-Tdt .rectangle-40-ohk {
+  width: 77.7rem;
+  height: 0.9rem;
+  background-color: #56c2b5;
+}
+.item-14-GwU .property-1variant4-8bc .auto-group-b11k-YfL {
+  margin-left: 0.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant4-8bc .auto-group-b11k-YfL .play-5vA {
+  margin-right: 1.5rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant4-8bc .auto-group-b11k-YfL .volume-off-2Kc {
+  margin-right: 1.75rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-14-GwU .property-1variant4-8bc .auto-group-b11k-YfL .item-14-33-22-15-9f8 {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

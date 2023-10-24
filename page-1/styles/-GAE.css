@@ -1,0 +1,277 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 119.8rem;
+}.item--EDY {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.item--EDY .property-1default-jg6 {
+  box-sizing: border-box;
+  padding: 66.2rem 0rem 0.7rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-41-bg-QPU.png');
+  border-radius: 2.5rem 2.5rem 0 0;
+  flex-shrink: 0;
+}
+.item--EDY .property-1default-jg6 .auto-group-usz8-3wg {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  background-color: #626262;
+  flex-shrink: 0;
+}
+.item--EDY .property-1default-jg6 .auto-group-usz8-3wg .rectangle-40-ofx {
+  width: 77.7rem;
+  height: 0.9rem;
+  background-color: #56c2b5;
+}
+.item--EDY .property-1default-jg6 .auto-group-kc2w-wGN {
+  margin-left: 0.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item--EDY .property-1default-jg6 .auto-group-kc2w-wGN .pause-5dU {
+  margin-right: 1.5rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--EDY .property-1default-jg6 .auto-group-kc2w-wGN .volume-on-ctJ {
+  margin-right: 1.75rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--EDY .property-1default-jg6 .auto-group-kc2w-wGN .item-14-33-22-15-xSN {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant2-Zwx {
+  box-sizing: border-box;
+  padding: 66.2rem 0rem 0.7rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-25-bg-VXp.png');
+  border-radius: 2.5rem 2.5rem 0 0;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant2-Zwx .auto-group-eraa-J8r {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  background-color: #626262;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant2-Zwx .auto-group-eraa-J8r .rectangle-40-quU {
+  width: 77.7rem;
+  height: 0.9rem;
+  background-color: #56c2b5;
+}
+.item--EDY .property-1variant2-Zwx .auto-group-vb9l-nZp {
+  margin-left: 0.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant2-Zwx .auto-group-vb9l-nZp .play-Y3C {
+  margin-right: 1.5rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant2-Zwx .auto-group-vb9l-nZp .volume-on-FiJ {
+  margin-right: 1.75rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant2-Zwx .auto-group-vb9l-nZp .item-14-33-22-15-aka {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant3-T3g {
+  box-sizing: border-box;
+  padding: 66.2rem 0rem 0.7rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-41-bg-rSe.png');
+  border-radius: 2.5rem 2.5rem 0 0;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant3-T3g .auto-group-mq26-maA {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  background-color: #626262;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant3-T3g .auto-group-mq26-maA .rectangle-40-uwG {
+  width: 77.7rem;
+  height: 0.9rem;
+  background-color: #56c2b5;
+}
+.item--EDY .property-1variant3-T3g .auto-group-hmt8-r5p {
+  margin-left: 0.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant3-T3g .auto-group-hmt8-r5p .pause-zhp {
+  margin-right: 1.5rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant3-T3g .auto-group-hmt8-r5p .volume-off-Xhk {
+  margin-right: 1.75rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant3-T3g .auto-group-hmt8-r5p .item-14-33-22-15-U7C {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant4-KNi {
+  box-sizing: border-box;
+  padding: 66.2rem 0rem 0.7rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-41-bg-z6N.png');
+  border-radius: 2.5rem 2.5rem 0 0;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant4-KNi .auto-group-wp8v-qM4 {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  background-color: #626262;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant4-KNi .auto-group-wp8v-qM4 .rectangle-40-PdU {
+  width: 77.7rem;
+  height: 0.9rem;
+  background-color: #56c2b5;
+}
+.item--EDY .property-1variant4-KNi .auto-group-fwas-vNW {
+  margin-left: 0.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant4-KNi .auto-group-fwas-vNW .play-rmx {
+  margin-right: 1.5rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant4-KNi .auto-group-fwas-vNW .volume-off-Cqp {
+  margin-right: 1.75rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--EDY .property-1variant4-KNi .auto-group-fwas-vNW .item-14-33-22-15-jqk {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

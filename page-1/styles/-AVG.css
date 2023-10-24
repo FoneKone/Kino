@@ -1,0 +1,370 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.item--uA2 {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #56c2b5;
+}
+.item--uA2 .rectangle-8-Xx6 {
+  width: 144rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 0;
+  top: 35.5rem;
+  background-color: #5a5349;
+}
+.item--uA2 .rectangle-9-Gen {
+  width: 144rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 0;
+  top: 70.2rem;
+  background-color: #5a5349;
+}
+.item--uA2 .image-11-pAW {
+  width: 144rem;
+  height: 21.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--uA2 .rectangle-8-mLe {
+  width: 144rem;
+  height: 81rem;
+  position: absolute;
+  left: 0;
+  top: 21.4rem;
+  background-color: #000000;
+}
+.item--uA2 .group-29-suU {
+  width: 29.8rem;
+  height: 6rem;
+  position: absolute;
+  left: 95.25rem;
+  top: 14.4rem;
+}
+.item--uA2 .group-29-suU .rectangle-24-wnr {
+  width: 29rem;
+  height: 6rem;
+  position: absolute;
+  left: 0.45rem;
+  top: 0;
+  border: solid 0.2rem #5c4331;
+  box-sizing: border-box;
+  background-color: rgba(191, 145, 111, 0.5);
+}
+.item--uA2 .group-29-suU .item--3qt {
+  width: 29.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 1.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--uA2 .group-1-4W6 {
+  width: 29rem;
+  height: 6rem;
+  position: absolute;
+  left: 16rem;
+  top: 14.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #5c4331;
+  box-sizing: border-box;
+}
+.item--uA2 .item--XPg {
+  width: 45.2rem;
+  height: 7rem;
+  position: absolute;
+  left: 49.4rem;
+  top: 3.6rem;
+  text-align: center;
+  font-size: 5.5rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Versus, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--uA2 .rectangle-10-cR8 {
+  width: 144rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 0;
+  top: 35.5rem;
+  background-color: #5a5349;
+}
+.item--uA2 .rectangle-11-9vr {
+  width: 144rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 0;
+  top: 70.2rem;
+  background-color: #5a5349;
+}
+.item--uA2 .rectangle-24-hhU {
+  width: 20rem;
+  height: 30rem;
+  cursor: pointer;
+  position: absolute;
+  left: 3.5rem;
+  top: 30.8rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-24-bg-Wvn.png');
+}
+.item--uA2 .rectangle-25-pXC {
+  width: 20rem;
+  height: 30rem;
+  cursor: pointer;
+  position: absolute;
+  left: 26.9rem;
+  top: 30.8rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-25-bg-7VL.png');
+}
+.item--uA2 .rectangle-26-MGE {
+  width: 20rem;
+  height: 30rem;
+  cursor: pointer;
+  position: absolute;
+  left: 50.3rem;
+  top: 30.8rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-26-bg-YvW.png');
+}
+.item--uA2 .rectangle-27-S2n {
+  width: 20rem;
+  height: 30rem;
+  cursor: pointer;
+  position: absolute;
+  left: 73.7rem;
+  top: 30.8rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-27-bg-bHk.png');
+}
+.item--uA2 .rectangle-28-xWv {
+  width: 20rem;
+  height: 30rem;
+  cursor: pointer;
+  position: absolute;
+  left: 97.1rem;
+  top: 30.8rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-28-bg.png');
+}
+.item--uA2 .rectangle-29-ghp {
+  width: 20rem;
+  height: 30rem;
+  cursor: pointer;
+  position: absolute;
+  left: 120.5rem;
+  top: 30.8rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-29-bg-cst.png');
+}
+.item--uA2 .rectangle-30-cLa {
+  width: 20rem;
+  height: 30rem;
+  cursor: pointer;
+  position: absolute;
+  left: 3.5rem;
+  top: 65.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-30-bg-P4N.png');
+}
+.item--uA2 .rectangle-31-XyL {
+  width: 20rem;
+  height: 30rem;
+  cursor: pointer;
+  position: absolute;
+  left: 26.9rem;
+  top: 65.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-31-bg.png');
+}
+.item--uA2 .rectangle-32-4Ca {
+  width: 20rem;
+  height: 30rem;
+  cursor: pointer;
+  position: absolute;
+  left: 50.3rem;
+  top: 65.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-32-bg.png');
+}
+.item--uA2 .rectangle-33-Nyx {
+  width: 20rem;
+  height: 30rem;
+  cursor: pointer;
+  position: absolute;
+  left: 73.7rem;
+  top: 65.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-33-bg-kav.png');
+}
+.item--uA2 .rectangle-34-Jsc {
+  width: 20rem;
+  height: 30rem;
+  cursor: pointer;
+  position: absolute;
+  left: 97.1rem;
+  top: 65.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-34-bg.png');
+}
+.item--uA2 .rectangle-35-2oc {
+  width: 20rem;
+  height: 30rem;
+  cursor: pointer;
+  position: absolute;
+  left: 120.5rem;
+  top: 65.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-35-bg.png');
+}
+.item--uA2 .group-7-M5C {
+  width: 24.65rem;
+  height: 7.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 117.25rem;
+  top: 3.05rem;
+  display: flex;
+  align-items: center;
+}
+.item--uA2 .group-7-M5C .item--FwG {
+  margin-right: 0.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--uA2 .group-7-M5C .item--xKt {
+  margin-bottom: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--uA2 .item--36S {
+  width: 41.6rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 51.2rem;
+  top: 24.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Versus, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--uA2 .image-62-Gzn {
+  width: 13.2rem;
+  height: 20.3rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--uA2 .image-48-D9L {
+  width: 15.3rem;
+  height: 13.4539rem;
+  position: absolute;
+  left: 128.5rem;
+  top: 8rem;
+  object-fit: cover;
+  vertical-align: top;
+  transform: rotate(-25deg);
+}
+.item--uA2 .image-54-jdU {
+  width: 14rem;
+  height: 13.1rem;
+  position: absolute;
+  left: 30.5rem;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--uA2 .image-58-4ve {
+  width: 10.4rem;
+  height: 14.9rem;
+  position: absolute;
+  left: 101.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
