@@ -107,18 +107,7 @@ body {
   border-radius: 1rem;
   font-size: 3rem;
 }
-.item--ijC .rectangle-5-iwU {
-  width: 39.8rem;
-  height: 5.3rem;
-  position: absolute;
-  left: 89.8rem;
-  top: 45rem;
-  background-color: #2e2d2d;
-  color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
-  border-radius: 1rem;
-  font-size: 3rem;
-}
+
 .item--ijC .group-8-eaE {
   width: 39.8rem;
   height: 8.8rem;
@@ -204,4 +193,19 @@ body {
   top: 73.2rem;
   object-fit: cover;
   vertical-align: top;
+}
+
+
+
+.item--ijC .rectangle-5-iwU {
+  width: 39.8rem;
+  height: 6rem;
+  position: absolute;
+  left: 89.8rem;
+  top: 45rem;
+  background-color: #2e2d2d;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  border-radius: 1rem;
+  font-size: 3rem;
 }
