@@ -1,0 +1,245 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.item--fT8 {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-10-bg-PA2.png');
+  background-color: #fd6a00;
+}
+.item--fT8 .image-23-YG2 {
+  width: 106.9rem;
+  height: 110rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100.179% 99.455%;
+  background-position: -0rem 1.2rem;
+  background-image: url('../assets/image-23.png');
+}
+.item--fT8 .image-24-Rai {
+  width: 31.7rem;
+  height: 30.2rem;
+  position: absolute;
+  left: 77.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--fT8 .image-30-MzA {
+  width: 31.9rem;
+  height: 31rem;
+  position: absolute;
+  left: 79.4rem;
+  top: 71.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--fT8 .image-34-JPc {
+  width: 29.9rem;
+  height: 28.4rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--fT8 .rectangle-3-36J {
+  width: 53.9rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 82.7rem;
+  top: 20.6rem;
+  background-color: #000000;
+  border-radius: 2.8rem;
+}
+.item--fT8 .item--xyx {
+  width: 39.5rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 91.5rem;
+  top: 14.3rem;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--fT8 .item--1hL {
+  width: 8.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 89.8rem;
+  top: 28.35rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--fT8 .item--Huk {
+  width: 21.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 99.3rem;
+  top: 66.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.1725;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--fT8 .item--Yqg {
+  width: 10.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 89.8rem;
+  top: 41.15rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--fT8 .rectangle-4-eti {
+  width: 39.8rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 89.8rem;
+  top: 31.9rem;
+  background-color: #2e2d2d;
+  border-radius: 1rem;
+}
+.item--fT8 .rectangle-6-aXU {
+  width: 39.8rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 89.8rem;
+  top: 55.4rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.item--fT8 .rectangle-5-KV4 {
+  width: 39.8rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 89.8rem;
+  top: 45rem;
+  background-color: #2e2d2d;
+  border-radius: 1rem;
+}
+.item--fT8 .item--enE {
+  width: 12.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 103.45rem;
+  top: 57.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--fT8 .image-7-MAr {
+  width: 95.5rem;
+  height: 91.8rem;
+  position: absolute;
+  left: 0;
+  top: 1.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--fT8 .item--VH4 {
+  width: 47rem;
+  height: 7rem;
+  position: absolute;
+  left: 11.7rem;
+  top: 30.6rem;
+  font-size: 5.5rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Versus, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--fT8 .item--Nre {
+  width: 60.4rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 11.7rem;
+  top: 39.9rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #aca2a2;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.item--fT8 .item--Pmk {
+  width: 58.6rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 11.7rem;
+  top: 52.5rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #aca3a3;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.item--fT8 .image-31-xTU {
+  width: 14.3rem;
+  height: 17.2rem;
+  position: absolute;
+  left: 74.2rem;
+  top: 87.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--fT8 .image-32-rok {
+  width: 28.5rem;
+  height: 24.1rem;
+  position: absolute;
+  left: 109.7rem;
+  top: 78.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--fT8 .image-33-9nr {
+  width: 30.9rem;
+  height: 30.3414rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}

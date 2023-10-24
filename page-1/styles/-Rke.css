@@ -1,0 +1,277 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 119.8rem;
+}.item--eKC {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.item--eKC .property-1default-Xtn {
+  box-sizing: border-box;
+  padding: 66.2rem 0rem 0.7rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-41-bg-Btv.png');
+  border-radius: 2.5rem 2.5rem 0 0;
+  flex-shrink: 0;
+}
+.item--eKC .property-1default-Xtn .auto-group-5rnn-4Nv {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  background-color: #626262;
+  flex-shrink: 0;
+}
+.item--eKC .property-1default-Xtn .auto-group-5rnn-4Nv .rectangle-40-c9Y {
+  width: 77.7rem;
+  height: 0.9rem;
+  background-color: #56c2b5;
+}
+.item--eKC .property-1default-Xtn .auto-group-fqpt-L5Y {
+  margin-left: 0.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item--eKC .property-1default-Xtn .auto-group-fqpt-L5Y .pause-Gzn {
+  margin-right: 1.5rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--eKC .property-1default-Xtn .auto-group-fqpt-L5Y .volume-on-DQE {
+  margin-right: 1.75rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--eKC .property-1default-Xtn .auto-group-fqpt-L5Y .item-14-33-22-15-kux {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant2-dD4 {
+  box-sizing: border-box;
+  padding: 66.2rem 0rem 0.7rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-25-bg-EZY.png');
+  border-radius: 2.5rem 2.5rem 0 0;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant2-dD4 .auto-group-eqzz-jmt {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  background-color: #626262;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant2-dD4 .auto-group-eqzz-jmt .rectangle-40-HHc {
+  width: 77.7rem;
+  height: 0.9rem;
+  background-color: #56c2b5;
+}
+.item--eKC .property-1variant2-dD4 .auto-group-aos2-Dh4 {
+  margin-left: 0.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant2-dD4 .auto-group-aos2-Dh4 .play-mia {
+  margin-right: 1.5rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant2-dD4 .auto-group-aos2-Dh4 .volume-on-JCi {
+  margin-right: 1.75rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant2-dD4 .auto-group-aos2-Dh4 .item-14-33-22-15-dEz {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant3-6PU {
+  box-sizing: border-box;
+  padding: 66.2rem 0rem 0.7rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-41-bg-ddC.png');
+  border-radius: 2.5rem 2.5rem 0 0;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant3-6PU .auto-group-5u2n-Rge {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  background-color: #626262;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant3-6PU .auto-group-5u2n-Rge .rectangle-40-Bfp {
+  width: 77.7rem;
+  height: 0.9rem;
+  background-color: #56c2b5;
+}
+.item--eKC .property-1variant3-6PU .auto-group-1rtq-85G {
+  margin-left: 0.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant3-6PU .auto-group-1rtq-85G .pause-fqt {
+  margin-right: 1.5rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant3-6PU .auto-group-1rtq-85G .volume-off-1uk {
+  margin-right: 1.75rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant3-6PU .auto-group-1rtq-85G .item-14-33-22-15-xKC {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant4-zmg {
+  box-sizing: border-box;
+  padding: 66.2rem 0rem 0.7rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-41-bg-gin.png');
+  border-radius: 2.5rem 2.5rem 0 0;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant4-zmg .auto-group-nroc-8N6 {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  background-color: #626262;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant4-zmg .auto-group-nroc-8N6 .rectangle-40-VCe {
+  width: 77.7rem;
+  height: 0.9rem;
+  background-color: #56c2b5;
+}
+.item--eKC .property-1variant4-zmg .auto-group-ar62-DuL {
+  margin-left: 0.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant4-zmg .auto-group-ar62-DuL .play-xc2 {
+  margin-right: 1.5rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant4-zmg .auto-group-ar62-DuL .volume-off-uGN {
+  margin-right: 1.75rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--eKC .property-1variant4-zmg .auto-group-ar62-DuL .item-14-33-22-15-37g {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
