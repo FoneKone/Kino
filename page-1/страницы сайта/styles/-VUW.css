@@ -23,7 +23,7 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('/page-1/assets/fon.png');
+  background-image: url(../assets/fon.png);
   background-color: #56c2b5;
 }
 

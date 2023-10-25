@@ -104,7 +104,7 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/rectangle-24-bg-Wvn.png');
+  background-image: url(../assets/резня.png);
 }
 .item--898 .rectangle-25-w22 {
   width: 20rem;
@@ -236,7 +236,7 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('/page-1/assets/rectangle-35-bg.png');
+  background-image: url('../assets/rectangle-35-bg.png');
 }
 .item--898 .group-6-4gJ {
   box-sizing: border-box;
