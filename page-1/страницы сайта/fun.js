@@ -13,3 +13,15 @@ button.addEventListener('click', () => {
   }
 });
 
+
+$('body').on('click', '.password-control', function(){
+	if ($('#password').attr('type') == 'password'){
+		$(this).addClass('view');
+		$('#password').attr('type', 'text');
+	} else {
+		$(this).removeClass('view');
+		$('#password').attr('type', 'password');
+	}
+	return false;
+});
+
